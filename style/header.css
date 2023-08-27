@@ -1,0 +1,19 @@
+.header{
+     padding-top: 20px;
+}
+
+.header img{
+    width: 170px;
+    float: left;
+}
+
+.login-btn{
+    width: 100px;
+    border-radius: 50px;
+    color: white;
+    float: right;
+    outline: none !important;
+    padding: 8px 0px;
+    border: 2px solid white;
+    background: transparent;
+}
